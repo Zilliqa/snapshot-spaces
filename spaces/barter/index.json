@@ -1,0 +1,23 @@
+{
+  "token": "zil17zvlqn2xamqpumlm2pgul9nezzd3ydmrufxnct",
+  "name": "CryptoBarter.group",
+  "network": "mainnet",
+  "symbol": "BARTER",
+  "strategies": [
+    {
+      "name": "barter",
+      "params": {
+        "address": "zil17zvlqn2xamqpumlm2pgul9nezzd3ydmrufxnct",
+        "symbol": "BARTER",
+        "decimals": 2
+      }
+    }
+  ],
+  "members": [
+    "zil1dqe3ljj6vezgwlhyrhyadppscvemxfslhdynal"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
