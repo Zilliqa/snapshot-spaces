@@ -1,0 +1,25 @@
+
+  "token": "zil1pdxm02u4v6wmjtwswqm305uyth2lkwurawkvre",
+  "name": "Token Talks",
+  "network": "mainnet",
+  "symbol": "TT",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil1pdxm02u4v6wmjtwswqm305uyth2lkwurawkvre",
+        "symbol": "TT",
+        "decimals": 5
+      }
+    }
+  ],
+  "members": [
+    "zil1yuql5kk4k52h884yjs0dyz5rgavtk88mesqeds",
+    "zil1d36l2vd46k6j3hw4dv0dslgrt85qhauk0vzppy",
+    "zil1sdltdpgtkws3wt4efd2hwchywj5wntrnvpasll"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
