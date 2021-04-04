@@ -10,7 +10,8 @@
         "address": "zil1pdxm02u4v6wmjtwswqm305uyth2lkwurawkvre",
         "symbol": "TT",
         "decimals": 5,
-        "minBalance": 2
+        "minBalance": 2,
+        "maxBalance": 2
       }
     }
   ],
@@ -18,7 +19,7 @@
     "zil1la5qkmy7u0zk43gjmmhe8jafm0cg7g4l9nqn6s"
   ],
   "filters": {
-    "defaultTab": "core",
+    "defaultTab": "team",
     "minScore": 0
   }
 }
