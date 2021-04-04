@@ -9,9 +9,7 @@
       "params": {
         "address": "zil1pdxm02u4v6wmjtwswqm305uyth2lkwurawkvre",
         "symbol": "TT",
-        "decimals": 5,
-        "minBalance": 2,
-        "maxBalance": 2
+        "decimals": 5
       }
     }
   ],
