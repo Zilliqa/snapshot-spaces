@@ -1,4 +1,5 @@
-
+[
+  {
   "token": "zil1pdxm02u4v6wmjtwswqm305uyth2lkwurawkvre",
   "name": "Token Talks",
   "network": "mainnet",
@@ -9,14 +10,13 @@
       "params": {
         "address": "zil1pdxm02u4v6wmjtwswqm305uyth2lkwurawkvre",
         "symbol": "TT",
-        "decimals": 5
+        "decimals": 5,
+        "minBalance": 2
       }
     }
   ],
   "members": [
-    "zil1yuql5kk4k52h884yjs0dyz5rgavtk88mesqeds",
-    "zil1d36l2vd46k6j3hw4dv0dslgrt85qhauk0vzppy",
-    "zil1sdltdpgtkws3wt4efd2hwchywj5wntrnvpasll"
+    "zil1la5qkmy7u0zk43gjmmhe8jafm0cg7g4l9nqn6s",
   ],
   "filters": {
     "defaultTab": "core",
