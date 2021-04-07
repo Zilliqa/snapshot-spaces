@@ -1,0 +1,25 @@
+{
+  "token": "zil18f5rlhqz9vndw4w8p60d0n7vg3n9sqvta7n6t2",
+  "name": "Governance PORT",
+  "network": "mainnet",
+  "symbol": "PORT",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil18f5rlhqz9vndw4w8p60d0n7vg3n9sqvta7n6t2",
+        "symbol": "PORT",
+        "decimals": 4
+      }
+    }
+  ],
+  "members": [
+    "zil1xlqwglrgr336rss9te4gwg2gy6frr4r2ymzwx8",
+    "zil1xmgjzkuqzxnkxt8tymcujezuln9vq0du66dyet",
+    "zil1ddyrhfcgkc6gd9t9f8hvdvhut5xvvfpn85n8yd"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}

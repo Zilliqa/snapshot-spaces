@@ -1,0 +1,26 @@
+{
+    "token": "zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye",
+    "name": "RedChillies",
+    "network": "mainnet",
+    "symbol": "REDC",
+    "strategies": [
+      {
+        "name": "zrc2-balance-of",
+        "params": {
+          "address": "zil14jmjrkvfcz2uvj3y69kl6gas34ecuf2j5ggmye",
+          "symbol": "REDC",
+          "decimals": 9
+        }
+      }
+    ],
+    "members": [
+      "zil1vqvh89p856wkll8v8jgajhsm4xf3m5wkqaafz2",
+      "zil1kj4qqenys7wg4kglyaefx394ywr88hp36l7hye",
+      "zil1dhdj3mwrfxcwyflv5mrukgr3mu4395l5gkxac7"
+    ],
+    "filters": {
+      "defaultTab": "core",
+      "minScore": 0
+    }
+  }
+  
