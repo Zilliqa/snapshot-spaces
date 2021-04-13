@@ -1,0 +1,24 @@
+{
+  "token": "zil1c6akv8k6dqaac7ft8ezk5gr2jtxrewfw8hc27d",
+  "name": "DuckDuck",
+  "network": "mainnet",
+  "symbol": "DUCT",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil1c6akv8k6dqaac7ft8ezk5gr2jtxrewfw8hc27d",
+        "symbol": "DUCK",
+        "decimals": 2
+      }
+    }
+  ],
+  "members": [
+    "zil14jct2x5nw73rnwdy8g0kjs99k8z29mu0eccspg",
+    "zil15net2q6atfnt73lemfu7nhpxjv0gts3j2ptgue"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
